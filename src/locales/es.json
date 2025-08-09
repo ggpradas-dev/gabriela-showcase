@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "experience": "Experiencia",
+    "projects": "Proyectos", 
+    "about": "Sobre mí"
+  },
+  "hero": {
+    "availableForWork": "Disponible para trabajar",
+    "greeting": "Hola, soy Gabriela",
+    "subtitle": "+2 años de experiencia. Desarrolladora y Creadora de Contenido con base en España. Especializada en Desarrollo Web Full Stack.",
+    "contact": "Contáctame",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "jobs": [
+      {
+        "title": "Frontend Developer",
+        "company": "Babelus IA",
+        "description": "Desarrollo de interfaces modernas con React y TypeScript para aplicaciones de inteligencia artificial.",
+        "period": "Abril 2025 – Actualidad"
+      },
+      {
+        "title": "Becaria",
+        "company": "Adviser Cloud",
+        "description": "Desarrollo frontend y aprendizaje de tecnologías cloud, trabajando en proyectos reales.",
+        "period": "Septiembre 2024 – Noviembre 2024"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos destacados",
+    "items": [
+      {
+        "title": "Blog Project",
+        "description": "Plataforma de blog completa con sistema de autenticación, gestión de contenido y panel de administración.",
+        "technologies": ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+        "badge": "Full Stack",
+        "codeLabel": "Código",
+        "demoLabel": "Demo"
+      },
+      {
+        "title": "App Store",
+        "description": "Aplicación estilo tienda con gestión de productos, carrito de compras y dashboard administrativo.",
+        "technologies": ["React", "Tailwind", "Firebase"],
+        "badge": "Frontend",
+        "codeLabel": "Código", 
+        "demoLabel": "Demo"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "content": "¡Hola! Soy Gabriela (también conocida como ggpradas), una desarrolladora apasionada por crear experiencias web extraordinarias. Mi viaje en la programación comenzó con curiosidad y se ha convertido en una carrera dedicada al desarrollo full stack. Me especializo en React, Node.js y tecnologías modernas, siempre buscando aprender y compartir conocimiento a través de la creación de contenido. Mi objetivo es construir aplicaciones que no solo funcionen perfectamente, sino que también brinden experiencias de usuario excepcionales."
+  },
+  "footer": {
+    "copyright": "© {year} Gabriela. Casi todos los derechos reservados."
+  },
+  "common": {
+    "toggleTheme": "Cambiar tema",
+    "toggleLanguage": "Cambiar idioma"
+  }
+}
